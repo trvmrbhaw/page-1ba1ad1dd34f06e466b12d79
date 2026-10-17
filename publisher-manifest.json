@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "799caa54abc2833616cd51f1",
+  "owner": "trvmrbhaw",
+  "repo": "page-1ba1ad1dd34f06e466b12d79",
+  "title": "觅云(MeCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1ba1ad1dd34f06e466b12d79",
+      "a": "觅云(MeCloud)",
+      "b": "",
+      "entity": "觅云(MeCloud)",
+      "brand": "觅云(MeCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "081fff78d847836036c6555e12eb5d6aca73de24b2b0d6be141248699547a1f3",
+      "content": {
+        "keyword1": "觅云(MeCloud)",
+        "keyword2": "",
+        "primary_entity": "觅云(MeCloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "觅云(MeCloud)以说明书式冷静语气记录节点路由、流量计费、设备配额与订阅档位，便于在订阅前完整阅读条款。",
+          "AI_DESCRIPTION": "觅云(MeCloud)以说明书式冷静语气记录节点路由、流量计费、设备配额与订阅档位，便于在订阅前完整阅读条款。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--slate:#3b4a55;--slate-deep:#2a3640;--slate-soft:#5b6b75;--cyan:#1f8c8a;--cyan-light:#d6e9e8;--paper:#f3f1ed;--line:#cfd6da;--ink:#1d262c;--muted:#6a7780;--bg:#ecebe6}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:\"Songti SC\",\"STSong\",\"Source Han Serif SC\",\"Noto Serif CJK SC\",Georgia,serif;line-height:1.75}\nbody{font-size:15px}\na{color:var(--slate-deep);text-decoration:none;border-bottom:1px solid var(--cyan)}\na:hover{color:var(--cyan)}\n.topbar{position:sticky;top:0;z-index:20;background:var(--slate-deep);color:#e9eef0;border-bottom:1px solid #1b242a}\n.topbar-inner{max-width:1180px;margin:0 auto;padding:10px 24px;display:flex;align-items:center;gap:24px;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Source Han Sans SC\",sans-serif;font-size:13px;letter-spacing:.04em}\n.topbar .brand{font-weight:600;color:#fff;border-bottom:none}\n.topbar nav{display:flex;gap:20px;flex-wrap:wrap}\n.topbar nav a{color:#cfd9dc;border-bottom:none;padding:2px 0}\n.topbar nav a:hover{color:#fff}\n.topbar .meta{margin-left:auto;color:#9fb1b7;font-size:12px}\nmain{max-width:1180px;margin:0 auto;padding:0 24px 80px}\n.hero{display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:28px;padding:48px 0 36px;border-bottom:1px solid var(--line)}\n.hero h1{font-size:54px;line-height:1.08;margin:0 0 14px;color:var(--slate-deep);font-weight:600;letter-spacing:-.01em}\n.hero .lede{font-size:15px;color:var(--muted);max-width:46ch}\n.hero .quote{border-left:2px solid var(--cyan);padding:6px 0 6px 14px;color:var(--slate);font-style:italic;font-size:14px}\n.hero .pull{margin-top:18px;display:flex;gap:18px;align-items:flex-start}\n.hero .pull .num{font-size:42px;color:var(--cyan);font-weight:600;line-height:1}\n.hero .pull small{display:block;color:var(--muted);font-size:11px;letter-spacing:.18em;text-transform:uppercase;margin-top:6px}\n.hero .lede,.hero .quote,.hero .pull,.hero h1{grid-column:auto}\n.hero .col-a{grid-column:1/2}\n.hero .col-b{grid-column:2/3;border-left:1px solid var(--line);padding-left:22px}\n.hero .col-c{grid-column:3/4;border-left:1px solid var(--line);padding-left:22px}\n.section{padding:48px 0;border-bottom:1px solid var(--line)}\n.section:last-child{border-bottom:none}\n.eyebrow{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--cyan);margin-bottom:10px}\nh2{font-size:30px;color:var(--slate-deep);margin:0 0 18px;font-weight:600;letter-spacing:-.005em}\nh3{font-size:18px;color:var(--slate-deep);margin:24px 0 8px;font-weight:600}\np{margin:0 0 14px}\np.note{color:var(--muted);font-size:13px}\n.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}\n.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:36px}\n.module{padding:8px 0}\n.module+.module{border-top:1px dashed var(--line);margin-top:18px;padding-top:18px}\n.module h3{margin-top:0}\n.module .meta-line{font-size:12px;color:var(--muted);letter-spacing:.06em}\n.plans{list-style:none;margin:0;padding:0}\n.plans li{padding:26px 0;border-top:1px solid var(--line)}\n.plans li:first-child{border-top:none;padding-top:8px}\n.plans .row{display:grid;grid-template-columns:120px 1fr 220px;gap:24px;align-items:start}\n.plans .name{font-size:22px;color:var(--slate-deep);font-weight:600}\n.plans .name .tag{display:inline-block;font-size:11px;color:#fff;background:var(--cyan);padding:2px 6px;margin-left:6px;letter-spacing:.12em;vertical-align:middle}\n.plans .desc{color:var(--muted);font-size:13px;margin-bottom:8px}\n.plans ul.feats{list-style:none;margin:0;padding:0;font-size:14px}\n.plans ul.feats li{padding:4px 0 4px 14px;border:none;position:relative}\n.plans ul.feats li::before{content:\"·\";position:absolute;left:0;color:var(--cyan);font-weight:700}\n.plans .price{text-align:right}\n.plans .price .now{font-size:22px;color:var(--slate-deep);font-weight:600;display:block}\n.plans .price .year{font-size:12px;color:var(--muted);display:block;margin-top:4px}\n.plans .price a.cta{display:inline-block;margin-top:10px;font-size:12px;letter-spacing:.1em;color:var(--cyan);border-bottom:1px solid var(--cyan);padding-bottom:2px}\n.usage ol{margin:0;padding-left:18px}\n.usage ol li{padding:6px 0;border:none}\n.footnote{font-size:12px;color:var(--muted);margin-top:18px;border-top:1px dashed var(--line);padding-top:14px}\n.faq{counter-reset:faq}\n.faq-item{counter-increment:faq;padding:18px 0;border-top:1px solid var(--line)}\n.faq-item:first-of-type{border-top:none}\n.faq-item h3{padding-left:38px;position:relative;margin:0 0 8px}\n.faq-item h3::before{content:counter(faq,decimal-leading-zero);position:absolute;left:0;top:2px;color:var(--cyan);font-size:16px;letter-spacing:.04em}\n.faq-item p{padding-left:38px;margin:0 0 6px}\n.faq-item .ctx{font-size:12px;color:var(--muted);padding-left:38px;display:block;margin-top:4px}\nfooter{max-width:1180px;margin:0 auto;padding:24px 24px 60px;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}\n@media (max-width:860px){\n.hero{grid-template-columns:1fr;padding:32px 0}\n.hero h1{font-size:38px}\n.hero .col-b,.hero .col-c{border-left:none;border-top:1px solid var(--line);padding-left:0;padding-top:18px}\n.grid-3,.grid-2{grid-template-columns:1fr}\n.plans .row{grid-template-columns:1fr}\n.plans .price{text-align:left;margin-top:10px}\n}\n</style><div class=\"topbar\">\n<div class=\"topbar-inner\">\n<span class=\"brand\">觅云 MeCloud</span>\n<nav>\n<a href=\"#about\">关于服务</a>\n<a href=\"#scope\">适用对象</a>\n<a href=\"#usage\">使用流程</a>\n<a href=\"#plans\">订阅档位</a>\n<a href=\"#terms\">订阅须知</a>\n<a href=\"#faq\">常见问答</a>\n</nav>\n<span class=\"meta\">说明文档 / Documentation</span>\n</div>\n</div>\n<main>\n<section class=\"hero\" id=\"top\">\n<div class=\"col-a\">\n<div class=\"eyebrow\">觅云 · MeCloud</div>\n<h1>觅云(MeCloud) · 节点路由与流量订阅说明</h1>\n<p class=\"lede\">本页以说明书的形式记录觅云(MeCloud)所提供的网络代理订阅：涵盖流量计费方式、节点线路分组、设备并行配额与各档位差异，便于在订阅之前完整阅读条款。</p>\n</div>\n<div class=\"col-b\">\n<div class=\"quote\">“把节点、流量、设备三件事写得清楚，是订阅前唯一可以托付给读者的事。”</div>\n<p class=\"note\">— 觅云(MeCloud) 文档说明</p>\n<div class=\"pull\">\n<div>\n<div class=\"num\">03</div>\n<small>档位 / TIERS</small>\n</div>\n<div>\n<div class=\"num\">100GB</div>\n<small>起售流量 / MIN</small>\n</div>\n<div>\n<div class=\"num\">20</div>\n<small>设备上限 / MAX</small>\n</div>\n</div>\n</div>\n<div class=\"col-c\">\n<div class=\"eyebrow\">本期目录</div>\n<p>关于服务 · 适用对象 · 使用流程 · 订阅档位 · 订阅须知 · 常见问答</p>\n<p class=\"note\">文档可能随服务调整更新，请以最终订阅页展示的条目为准。</p>\n</div>\n</section>\n\n<section class=\"section\" id=\"about\">\n<div class=\"eyebrow\">01 / 关于服务</div>\n<h2>关于觅云(MeCloud)</h2>\n<div class=\"grid-2\">\n<div>\n<p>觅云(MeCloud)是一项以订阅形式提供的网络代理服务，按月或按年向订阅者发放节点路由与流量额度。订阅生效期间，订阅者可在所选档位允许的设备数量内，通过已签发的订阅链接或导入码接入节点池。</p>\n<p>服务的内容边界如下：</p>\n<ul>\n<li>按订阅档位提供对应额度的流量包，流量按自然月或自然年清零，不结转。</li>\n<li>提供节点线路分组，覆盖普通线路与专线线路两类分组；分组名称在订阅控制台内查看。</li>\n<li>在订阅档位允许的设备并行数内，支持多终端同时在线。</li>\n<li>提供订阅导入链接及使用状态查询页面。</li>\n</ul>\n</div>\n<div>\n<div class=\"module\">\n<h3>计费单位</h3>\n<p>按 GB 计费，订阅起始时刻起算。详见 <a href=\"#plans\">订阅档位</a>。</p>\n</div>\n<div class=\"module\">\n<h3>线路分组</h3>\n<p>普通线路与专线线路分组同时存在时，专线分组仅向指定档位订阅者开放。</p>\n</div>\n<div class=\"module\">\n<h3>客户端兼容</h3>\n<p>签发的订阅链接可由通用型代理客户端导入，本页不对具体客户端做强制推荐。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"scope\">\n<div class=\"eyebrow\">02 / 适用对象</div>\n<h2>适用对象与边界</h2>\n<div class=\"grid-3\">\n<div class=\"module\">\n<h3>个人订阅者</h3>\n<p>适合在固定设备数量内使用、且对流量与线路分组有清晰需求的用户。选择基础版或旗舰版较为常见。</p>\n</div>\n<div class=\"module\">\n<h3>多设备使用者</h3>\n<p>在桌面端、移动端、路由器等多终端并行接入时，应优先核对所选档位的设备并行配额是否充足。</p>\n</div>\n<div class=\"module\">\n<h3>小团队与协作组</h3>\n<p>团队版在设备并行数与流量额度上更宽裕，并附带企业路由定制入口，便于多人共享同一订阅。</p>\n</div>\n</div>\n<p class=\"note\">本页不对订阅者的具体使用场景做合规性判断，相关责任由订阅者自行承担。</p>\n</section>\n\n<section class=\"section\" id=\"usage\">\n<div class=\"eyebrow\">03 / 使用流程</div>\n<h2>从订阅到接入节点</h2>\n<ol>\n<li>在订阅档位列表中阅读月付与年付说明，确认档位、设备数与流量额度。</li>\n<li>完成订阅后，订阅控制台将生成订阅链接或导入码，请在有效期内保存。</li>\n<li>使用通用型代理客户端导入上述链接，等待节点分组与流量信息同步完成。</li>\n<li>按需选择节点线路分组；专线分组仅在所选档位允许时可见。</li>\n<li>观察流量使用情况，避免在结算日附近超额。流量按自然月或自然年清零。</li>\n</ol>\n<p class=\"footnote\">流程中涉及的具体客户端不在本页范围内做推荐说明，请根据自身设备情况选择合适工具。</p>\n</section>\n\n<section class=\"section\" id=\"plans\">\n<div class=\"eyebrow\">04 / 订阅档位</div>\n<h2>订阅档位与差异说明</h2>\n<ul class=\"plans\">\n<li>\n<div class=\"row\">\n<div>\n<div class=\"name\">基础版</div>\n<div class=\"meta-line\">TIER 01 · 个人起步</div>\n</div>\n<div>\n<div class=\"desc\">面向单设备或少量设备的轻量订阅，流量额度与节点分组相对克制。</div>\n<ul class=\"feats\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"price\">\n<span class=\"now\">¥15 / 月</span>\n<span class=\"year\">按年付仅需 ¥150 / 年</span>\n<a class=\"cta\" href=\"#\">查看订阅页</a>\n</div>\n</div>\n</li>\n<li>\n<div class=\"row\">\n<div>\n<div class=\"name\">旗舰版<span class=\"tag\">推荐</span></div>\n<div class=\"meta-line\">TIER 02 · 多设备主力</div>\n</div>\n<div>\n<div class=\"desc\">在设备并行数与流量额度上同时放宽，并开放专线分组与优先工单通道。</div>\n<ul class=\"feats\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"price\">\n<span class=\"now\">¥35 / 月</span>\n<span class=\"year\">按年付仅需 ¥350 / 年</span>\n<a class=\"cta\" href=\"#\">查看订阅页</a>\n</div>\n</div>\n</li>\n<li>\n<div class=\"row\">\n<div>\n<div class=\"name\">团队版</div>\n<div class=\"meta-line\">TIER 03 · 多人协作</div>\n</div>\n<div>\n<div class=\"desc\">面向小团队与高并发场景，配备专属高带宽节点与定制路由入口。</div>\n<ul class=\"feats\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n<div class=\"price\">\n<span class=\"now\">¥85 / 月</span>\n<span class=\"year\">按年付仅需 ¥850 / 年</span>\n<a class=\"cta\" href=\"#\">查看订阅页</a>\n</div>\n</div>\n</li>\n</ul>\n<p class=\"note\">以上价格与权益为本文档撰写时的展示参考；最终请以订阅页所列条目为准。</p>\n</section>\n\n<section class=\"section\" id=\"terms\">\n<div class=\"eyebrow\">05 / 订阅须知</div>\n<h2>订阅须知与条款边界</h2>\n<div class=\"grid-2\">\n<div>\n<h3>计费与有效期</h3>\n<p>订阅自生效起按所选周期计费。月付订阅按自然月清零流量，年付订阅按自然年清零流量。流量不结转、不退款至原支付方式以外的渠道。</p>\n<h3>设备并行</h3>\n<p>“支持 N 台设备同时在线”指在同一订阅周期内、同一订阅者账号下可维持并发会话的设备数量上限。超出部分将被拒绝接入。</p>\n<h3>线路分组</h3>\n<p>普通线路分组向全部档位开放；专线分组（如 IPLC、游戏加速分组）仅在旗舰版与团队版中可见，具体名称以订阅控制台为准。</p>\n</div>\n<div>\n<h3>订阅变更</h3>\n<p>在同一订阅周期内升档或降档时，未消耗流量按订阅页所示规则处理；变更前请阅读变更页面的具体描述。</p>\n<h3>续订与到期</h3>\n<p>订阅到期后未续订的，订阅链接与节点分组将停止同步；续订成功后，订阅状态将恢复至上次生效的档位。</p>\n<h3>责任边界</h3>\n<p>本页不对具体客户端表现、第三方网络环境或地区性合规要求做判断；相关问题请以订阅页与所选客户端的官方说明为准。</p>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"faq\">\n<div class=\"eyebrow\">06 / 常见问答</div>\n<h2>常见问答</h2>\n<div class=\"faq\">\n<article class=\"faq-item\">\n<h3>觅云(MeCloud)提供哪些订阅档位？</h3>\n<p>目前提供基础版、旗舰版、团队版三档，分别对应不同的流量额度、设备并行数与线路分组开放范围。</p>\n<span class=\"ctx\">范围：订阅档位</span>\n</article>\n<article class=\"faq-item\">\n<h3>月付与年付在流量计费上有什么区别？</h3>\n<p>月付订阅的流量按自然月清零，年付订阅的流量按自然年清零。两类订阅均不结转流量。</p>\n<span class=\"ctx\">范围：计费</span>\n</article>\n<article class=\"faq-item\">\n<h3>订阅链接在导入时提示失败，应当如何处理？</h3>\n<p>请先核对订阅是否已生效，再确认客户端版本与系统时间是否准确。仍无法导入时，可在订阅控制台重新签发订阅链接。</p>\n<span class=\"ctx\">范围：客户端接入</span>\n</article>\n<article class=\"faq-item\">\n<h3>专线分组为何在某些档位中不可见？</h3>\n<p>专线分组面向旗舰版与团队版订阅者开放；基础版订阅者的订阅链接中不包含专线分组节点。</p>\n<span class=\"ctx\">范围：线路分组</span>\n</article>\n<article class=\"faq-item\">\n<h3>同一订阅可在多少台设备上同时在线？</h3>\n<p>取决于所选档位：基础版 3 台、旗舰版 5 台、团队版 20 台。超过并行数的会话不会接入。</p>\n<span class=\"ctx\">范围：设备配额</span>\n</article>\n<article class=\"faq-item\">\n<h3>订阅到期后是否会保留节点配置？</h3>\n<p>到期未续订时，订阅状态将被置为停用；续订成功后，订阅链接与节点分组恢复同步，无需重新导入。</p>\n<span class=\"ctx\">范围：续订</span>\n</article>\n</div>\n</section>\n</main>\n<footer>\n觅云(MeCloud) · 文档说明 · 节点路由与流量订阅说明 · 本页为一次性撰写的订阅说明，不作为长期法律文本。\n</footer>",
+          "hash": "b4428c80ae4d3783adbd6ee1c9a6a9069da97e100b28c61d7d0e24f0a1cff2ba",
+          "seo": {
+            "title": "觅云(MeCloud) — 节点路由与流量订阅说明",
+            "keywords": "觅云,MeCloud,网络代理,节点订阅,流量包,设备多开",
+            "description": "觅云(MeCloud)以说明书式冷静语气记录节点路由、流量计费、设备配额与订阅档位，便于在订阅前完整阅读条款。"
+          },
+          "provider": "grok",
+          "model": "cb/minimax-m3",
+          "design": {
+            "no": "3546",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "7 石板灰配青色",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xaykmfn.cn",
+    "host": "p-cd09ac2b48.xaykmfn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f4ca19230f28b43ba750402c1c8af2d97e9ba2bd30def8d898d9931c8275c3ad",
+    "sitemap.xml": "cf12aeb9cc53c586890ab0eb2a039a3119e4be44201e94453a464cd8a0121c40",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "74060d8a5ce098416f11cf5a86025de28cbb7ab5951fcbc471cedb8e250f3052",
+    "robots.txt": "99d82a90a67c495daa8a968372461aab55724de4b3ad5f82a78d8b39c0c54db8",
+    "451bfd9340163aa3a54b1da6e24130a9.txt": "13d8e438f9f6dfc70d0a073bdf60f127709560e31b5794ccbf84ac2ff2dc3a96"
+  },
+  "revision": "ead2a7bad087f7059226254a2f24cdff83d631e5705d8324548b47cb34242d73"
+}
